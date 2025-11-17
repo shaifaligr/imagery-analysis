@@ -1,0 +1,14 @@
+name: assignment
+
+channels:
+conda-forge, defaults
+
+dependencies:
+rasterio
+numpy
+scipy
+matplotlib
+pandas
+geopandas
+jupyterlab
+glob

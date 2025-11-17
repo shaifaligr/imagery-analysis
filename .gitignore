@@ -1,0 +1,16 @@
+*.tif
+*.zip
+*.SAFE/
+*.SAFE
+*.img
+*.hdr
+*.png
+*.npy
+*.pt
+*.h5
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.aux.xml
+*.dim
+*.data/
